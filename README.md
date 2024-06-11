@@ -1,5 +1,5 @@
 # CUIT-共识机制
-包含代码
+包含PoW、PoS、DPoS、PBFT代码以及实验报告和指导书
 ## POW | POS 
 使用的语言是 GO
 ### 运行
